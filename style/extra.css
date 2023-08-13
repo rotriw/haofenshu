@@ -1,0 +1,58 @@
+.spaces {
+    padding-top: 15px;
+}
+
+.HENG {
+    display: inline-block;
+    padding: 5px;
+}
+
+.ui.card.totals {
+    width: 100%;
+}
+
+.ui.styled.totals {
+    width: 100% !important;
+}
+
+.pat {
+    padding: 10px;
+    
+}
+
+.wrongs:active {
+    color: rgb(234, 178, 139) !important;
+}
+
+.wrongs:hover {
+    color: rgb(234, 178, 139) !important;
+}
+
+.rights:active {
+    color: rgb(177, 206, 148) !important;
+}
+.rights:hover {
+    color: rgb(177, 206, 148) !important;
+}
+
+
+.somewrong:active {
+    color: rgb(249, 217, 120) !important;
+}
+
+.somewrong:hover {
+    color: rgb(249, 217, 120) !important;
+}
+
+
+.titles {
+    padding-bottom: 10px;
+}
+
+.spaces2 {
+    padding-bottom: 2px;
+}
+
+.ex-2 {
+    display: inline-block;
+}

@@ -1,0 +1,49 @@
+body {
+    font-family: Seravek;
+   
+}
+.button {
+    font-family: Seravek !important;
+}
+.mbl {
+    backdrop-filter: blur(7px);
+}
+.main {
+    padding-top: 49px;
+}
+.fonts {
+    font-family: Seravek !important;
+    font-weight: bold !important;
+}
+.item.active {
+        box-shadow: 0 11000.5px 10px -11000px #c496e12e inset !important;
+    border-bottom-style: none !important;
+    border-top-style: solid !important;
+    color: #c496e1 !important;
+}
+.item.active:hover {
+    background-color: #8b878721 !important;
+}
+.item.linkr:active {
+    border-color: #3e8fd5  !important;
+}
+.item.linkr:hover {
+    border-color: #2689df !important;
+    box-shadow: 0 11000.5px 10px -11000px #2689df12 inset !important;
+    border-bottom-style: none !important;
+    border-top-style: solid !important;
+    background-color: #8b878707 !important;
+}
+.item.linkr {
+    border-bottom-style: none !important;
+    border-top-style: solid !important;
+    border-color: #ffffff00 !important;
+}
+
+.shadow {
+    transition: background-color .2s,box-shadow 1s !important;
+    transition-timing-function: cubic-bezier(.39,.575,.565,1) !important;
+}
+.primary.shadow:hover {
+    box-shadow: 0 4px 15px #1678c2 !important;
+}
